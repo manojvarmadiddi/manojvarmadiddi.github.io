@@ -53753,7 +53753,7 @@ return A.C(s,s,s,s,s,s,s,s)},
 $S:1}
 A.a12.prototype={
 $2(a,b){var s=null
-if(b.a===B.t)return A.C(s,A.b1(A.c([A.b4("JAVA\n( Programming & Android )",A.ac(0,10,0),B.a7,A.at(s,s,B.i,s,s,s,s,s,s,s,s,10,s,B.o,s,s,!0,s,s,s,s,s,s,s,s))],t.V),!1),s,s,s,s,new A.O(15,15,15,10),s)
+if(b.a===B.t)return A.C(s,A.b1(A.c([A.b4("DART \ud83c\udfaf( Programming & Android )",A.ac(0,10,0),B.a7,A.at(s,s,B.i,s,s,s,s,s,s,s,s,10,s,B.o,s,s,!0,s,s,s,s,s,s,s,s))],t.V),!1),s,s,s,s,new A.O(15,15,15,10),s)
 return A.C(s,s,s,s,s,s,s,s)},
 $S:1}
 A.a13.prototype={
