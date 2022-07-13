@@ -1,6 +1,6 @@
 {
-    "name": "my_site",
-    "short_name": "my_site",
+    "name": "sitaipl",
+    "short_name": "sitaipl",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
