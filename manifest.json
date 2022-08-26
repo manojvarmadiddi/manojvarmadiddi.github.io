@@ -1,6 +1,6 @@
 {
-    "name": "sitaipl",
-    "short_name": "sitaipl",
+    "name": "my_profile",
+    "short_name": "my_profile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
