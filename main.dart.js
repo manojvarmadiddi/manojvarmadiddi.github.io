@@ -84030,7 +84030,7 @@ A.K5.prototype={
 I(a){return A.fD(null,null,new A.a1f(),t.A,t.YR)}}
 A.a1f.prototype={
 $2(a,b){var s,r=null,q=b.y,p=A.avp(B.T,A.dl("Contact me \ud83d\udcde",r,!0,$.xv(),r)),o=A.aI(a,r,t.w).w,n=q==null,m=n?r:q.f
-if(m==null)m="For any service or work inquiries, you can easily reach me by sending an email ` \ud83d\udce7 or by connecting through my social media accounts \ud83d\udcac \ud83d\udd17"
+if(m==null)m="For any service or work inquiries, you can easily reach me by sending an email \ud83d\udce7 or by connecting through my social media accounts \ud83d\udcac \ud83d\udd17"
 m=A.dl(m,5,!0,$.xu(),r)
 n=n?r:q.r
 if(n==null)n="Let's collaborate! I look forward to hearing from you. \u2728"
@@ -84141,7 +84141,7 @@ if(i==null)i="Manoj Diddi"
 s=j?l:k.d
 if(s==null)s="Current Platforms: Android, Ios, Web, Windows"
 r=j?l:k.b
-if(r==null)r="Flutter developer with 5.9 years of experience building high-quality, native mobile, web and Desktop apps. Proven ability to design, develop, and deploy complex apps using Flutter best practices. Expertise in state management, UI design, and performance optimization."
+if(r==null)r="Flutter developer with 5+ years of experience building high-quality, native mobile, web and Desktop apps. Proven ability to design, develop, and deploy complex apps using Flutter best practices. Expertise in state management, UI design, and performance optimization."
 q=t.w
 p=A.aI(a,l,q).w.a.a<A.ff(B.fL)?B.Q:B.b3
 j=j?l:k.w
